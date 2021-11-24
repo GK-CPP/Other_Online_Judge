@@ -3,9 +3,9 @@ Peoblem_Solution
 /*==============================================*\
 ID:          Gulam_Kibria
  
-Name:     Gulam Kibria Chowdhury
-Study:      CSE, NEUB
-Address:  Sylhet, Bangladesh
+Gulam Kibria Chowdhury
+CSE Graduate || Competitive Programmer
+Sylhet, Bangladesh
  
- mail: gkpalash101@gmail.com
+ mail: gkchowdhury101@gmail.com
 \*===============================================*/
