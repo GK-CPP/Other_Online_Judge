@@ -1,7 +1,7 @@
 Peoblem_Solution <br>
 
 =============================================== <br>
-ID:          Gulam_Kibria <br>
+ID:         Gulam_Kibria <br>
  
 Gulam Kibria Chowdhury <br>
 CSE Graduate || Competitive Programmer <br>
