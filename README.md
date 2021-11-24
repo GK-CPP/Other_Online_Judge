@@ -1,11 +1,11 @@
-Peoblem_Solution 
+Peoblem_Solution <br>
 
-/*==============================================*\
-ID:          Gulam_Kibria
+=============================================== <br>
+ID:          Gulam_Kibria <br>
  
-Gulam Kibria Chowdhury
-CSE Graduate || Competitive Programmer
-Sylhet, Bangladesh
+Gulam Kibria Chowdhury <br>
+CSE Graduate || Competitive Programmer <br>
+Sylhet, Bangladesh <br>
  
- mail: gkchowdhury101@gmail.com
-\*===============================================*/
+Gmail: gkchowdhury101@gmail.com <br>
+=============================================== <br>
